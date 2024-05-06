@@ -1,0 +1,1 @@
+var gamefiles = ['audio.vox', 'BottomLife.ags', 'acsetup.cfg'];
